@@ -6,6 +6,7 @@ Use this repository to create and store your MDE learning activity (or activitie
 We've set up an initial [activity specification](activity.json).
 Use this to define your activity and add any files you need to the repository, possibly including any project folders etc.
 You could even include GitHub Actions to support autograding and similar activities, if you wanted.
+Learn more about writing activity specifications on the [Wiki page](https://github.com/mdenet/educationplatform/wiki/Creating-an-Activity).
 
 You may wish to set up a local copy of the education platform.
 You can learn how to do this by cloning [education-platform-docker](https://github.com/mdenet/educationplatform-docker).
