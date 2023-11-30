@@ -14,7 +14,7 @@ That repository also has links to a Wiki and to the core code repositories for t
 We are working on a publicly available hosted version of the platform and will eventually expect all activities to work with this publicly hosted version.
 In particular, this means that in your final submission, any tool URLs need to point to a publicly accessible server, whether hosted by MDENet, by yourself, or by someone else.
 
-Once the publicly hosted version is available, you should be able to try out your activity using this link: `https://educationplatform.mde-network.org/?activities=https://raw.githubusercontent.com/mdenet-education-competition-2023/<YOUR_REPO_NAME_HERE>/main/activity.json&privaterepo=true``.
+Once the publicly hosted version is available, you should be able to try out your activity using this link: `https://educationplatform.mde-network.org/?activities=https://raw.githubusercontent.com/mdenet-education-competition-2023/<YOUR_REPO_NAME_HERE>/main/activity.json&privaterepo=true`.
 
 ## License
 
