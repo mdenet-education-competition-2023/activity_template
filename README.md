@@ -22,6 +22,10 @@ Once the publicly hosted version is available, you should be able to try out you
 Beyond the files needed for running the activity, please also provide a description of what the activity is about, its context, and what you expect students to do and learn.
 You can do this by replacing this README file with one specific to your activity.
 
+## Where to ask for help
+
+For any problems with or questions about the education platform, please submit an issue on the relevant repository.
+
 ## License
 
 This repository is provided under MIT license. 
