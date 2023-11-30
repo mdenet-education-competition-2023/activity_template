@@ -17,6 +17,11 @@ In particular, this means that in your final submission, any tool URLs need to p
 
 Once the publicly hosted version is available, you should be able to try out your activity using this link: `https://educationplatform.mde-network.org/?activities=https://raw.githubusercontent.com/mdenet-education-competition-2023/<YOUR_REPO_NAME_HERE>/main/activity.json&privaterepo=true`.
 
+## What to include
+
+Beyond the files needed for running the activity, please also provide a description of what the activity is about, its context, and what you expect students to do and learn.
+You can do this by replacing this README file with one specific to your activity.
+
 ## License
 
 This repository is provided under MIT license. 
