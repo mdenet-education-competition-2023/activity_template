@@ -12,10 +12,12 @@ You may wish to set up a local copy of the education platform.
 You can learn how to do this by cloning [education-platform-docker](https://github.com/mdenet/educationplatform-docker).
 That repository also has links to a Wiki and to the core code repositories for the platform.
 
-We are working on a publicly available hosted version of the platform and will eventually expect all activities to work with this publicly hosted version.
+There is a first publicly available hosted version of the platform at https://mdenet-ep.sites.er.kcl.ac.uk/. 
+We expect this will eventually move to educationplatform.mde-network.org, but this may only happen in April for logistical reasons.
+We will eventually expect all activities to work with this publicly hosted version.
 In particular, this means that in your final submission, any tool URLs need to point to a publicly accessible server, whether hosted by MDENet, by yourself, or by someone else.
 
-Once the publicly hosted version is available, you should be able to try out your activity using this link: `https://educationplatform.mde-network.org/?activities=https://raw.githubusercontent.com/mdenet-education-competition-2023/<YOUR_REPO_NAME_HERE>/main/activity.json&privaterepo=true`.
+You should then be able to try out your activity using this link (which will be automatically adjusted by an activity included in this repository): [`https://mdenet-ep.sites.er.kcl.ac.uk/?activities=https://raw.githubusercontent.com/mdenet-education-competition-2023/<YOUR_REPO_NAME_HERE>/main/activity.json&privaterepo=true`](https://mdenet-ep.sites.er.kcl.ac.uk/?activities=https://raw.githubusercontent.com/mdenet-education-competition-2023/<YOUR_REPO_NAME_HERE>/main/activity.json&privaterepo=true).
 
 ## What to include
 
